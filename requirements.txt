@@ -1,0 +1,5 @@
+kaleido
+plotly_express
+seaborn
+pandas
+nbformat
