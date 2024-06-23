@@ -1,1 +1,1 @@
-# EMPLOYE-ATTRITION Machine Learning & artifical Intellgence Project 
+# EMPLOYE-ATTRITION Machine Learning & Artifical Intellgence Project 
